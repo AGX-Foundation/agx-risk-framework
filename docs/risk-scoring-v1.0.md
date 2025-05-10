@@ -16,6 +16,8 @@ This document defines the official, version-controlled risk scoring model for ev
 
 ## 🧱 Scoring Architecture
 
+The AGX scoring engine is enriched by field-validated trust mechanisms. Trust Memories, a Dynamic Trust Index, and a Living Risk Model are not supplemental—they are foundational to how scores are generated, evolve, and are interpreted. These components ensure that numerical scoring remains grounded in community legitimacy, observed behavior, and context-sensitive risk management.
+
 ### The Trust Pathway
 
 ```
@@ -199,11 +201,15 @@ A multi-stakeholder committee including at least one neutral member. It reviews 
 
 ---
 
-## 🌍 The Future of Risk: Toward an African Trust Model
+### Field-Verified Trust Mechanisms
 
-Western systems often use risk as a control mechanism: a reason to exclude, blacklist, or deny access. AGX proposes a new model—**risk as a relationship**, not a verdict.
+To ensure the AGX score reflects not just paperwork but lived behavior and community dynamics, three mechanisms are embedded into the scoring engine:
 
-We introduce two innovations:
+* Trust Memory (qualitative field logs)
+* Dynamic Trust Index (narrative, role-specific trust signals)
+* The Living Risk Model (community governance and scoring recalibration)
+
+These are not add-ons. They are essential elements of how AGX scoring adapts, earns legitimacy, and reflects what matters most in African gold markets.
 
 ### 🧠 1. Trust Memory (Qualitative Context Layer)
 
